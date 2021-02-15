@@ -2,6 +2,19 @@
 
  [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
+
+It might be dead, but I'm curious to "poke holes" in it, as one does when they have the curiosity of a toddler. 
+=)
+
+
+
+
+
+
+
+
+
+
 **Latest News:** This is dead. Forums are dead. Do not use forums. Do not use this. This is here only because it was once here and fuck, it might as well stay here since it was open source. Consider it a monument to obsolescence and my sins, which are so numerous that you can't even begin to imagine them all.
 
 No seriously, don't use this, it's dead and I can't be assed to maintain it. This is serious because some of the dependencies have security vulnerabilities that have come up since this died. I haven't done anything about that and I'm not going to, because I need to move on. You should too. Life is better that way.
